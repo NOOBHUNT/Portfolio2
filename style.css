@@ -1,0 +1,23 @@
+h1{
+    color: rgb(15, 228, 228);
+}
+*{
+background-color: cadetblue;
+color: darkblue;
+border: solid;
+}    
+
+.header{
+    background-color: rgb(204, 123, 123);
+    display:flex;
+    justify-content: space-between;
+
+}
+.item{
+    background-color: teal;
+   
+    
+}
+.footer{
+    background-color: rgb(136, 91, 219);
+}
